@@ -1,0 +1,34 @@
+{
+  "path": "/",
+  "headers": {
+    "host": "frankfurt.micheal.ch",
+    "x-real-ip": "10.0.0.254",
+    "x-forwarded-for": "10.0.0.254",
+    "connection": "close",
+    "if-none-match": "W/\"3a5-lITQf/11HN+Sxe3JAZ0FhudtL7A\"",
+    "upgrade-insecure-requests": "1",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15",
+    "accept-language": "en-GB,en;q=0.9",
+    "accept-encoding": "gzip, deflate"
+  },
+  "method": "GET",
+  "body": "",
+  "fresh": false,
+  "hostname": "frankfurt.micheal.ch",
+  "ip": "::ffff:149.224.198.77",
+  "ips": [],
+  "protocol": "https",
+  "query": {},
+  "subdomains": [
+    "frankfurt"
+  ],
+  "xhr": false,
+  "os": {
+    "hostname": "2767721ecc51"
+  },
+  "connection": {
+    "servername": "frankfurt.micheal.ch"
+  },
+  "clientCertificate": {}
+}
